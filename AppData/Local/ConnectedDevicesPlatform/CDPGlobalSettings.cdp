@@ -1,0 +1,57 @@
+﻿{
+   "AFSEnvironment" : 0,
+   "AFSUrl" : "https://activity.windows.com",
+   "AfcDefaultUser" : "undefined",
+   "AfcPrivacySettings" : {
+      "ActivityFeed" : 0,
+      "CloudSync" : 0,
+      "PublishUserActivity" : 1
+   },
+   "AfsPostInitializeSyncWaitMs" : 10000,
+   "AfsSyncFrequencyMs" : 3600000,
+   "Authentication.Environment" : 0,
+   "BluetoothTransportEnabled" : true,
+   "CcsPollingEnabled" : false,
+   "CcsPollingInterval" : 0,
+   "CcsRegisterUrl" : "https://register.cdpcs.microsoft.com/api/v1",
+   "CcsRegistrationEnabled" : true,
+   "CcsSeenRequestIds" : [],
+   "CcsSeenRequestIdsLastUpdatedTime" : "0000-00-00T00:00:00.000",
+   "CcsUrl" : "https://cdpcs.microsoft.com/api/v1",
+   "CloudTransportEnabled" : true,
+   "CustomAuthClsid" : "",
+   "DdsAadRegisterUrl" : "",
+   "DdsAadSyncUrl" : "",
+   "DdsMsaRegisterUrl" : "",
+   "DdsMsaSyncUrl" : "",
+   "FastPathEnabled" : true,
+   "FlowControl.AckSendInterval" : 100,
+   "FormatVersion" : 11,
+   "InboundMessageThreadPoolCount" : 8,
+   "LatestCdpUsedTime" : "0000-00-00T00:00:00.000",
+   "LatestFixAccountToastTime" : {},
+   "MaximumConcurrentBluetoothSends" : 5,
+   "MaximumSocketBuffers" : 32,
+   "MaximumUnreliableMessageQueueSize" : 100,
+   "OutboundMessageThreadPoolCount" : 1,
+   "POBoxes" : [
+      {
+         "alternateId" : "cortana.xdevice",
+         "name" : "ShareFileBinaryHost",
+         "packageId" : "cortana.xdevice",
+         "type" : "binary"
+      },
+      {
+         "alternateId" : "cortana.xdevice",
+         "name" : "NotificationActionBinaryHost",
+         "packageId" : "cortana.xdevice",
+         "type" : "binary"
+      }
+   ],
+   "TcpTransportEnabled" : true,
+   "TraceLog.EnabledHandlerTypes" : 66,
+   "TraceLog.Level" : 3,
+   "UdpTransportEnabled" : true,
+   "VirtualDeviceId" : "CC6B020F-AE6D-A7CD-05B7-1AC02CE68A18",
+   "WifiDirectTransportEnabled" : true
+}

@@ -1,0 +1,6 @@
+﻿[2018-02-07:15:55:06] Runtime Installer begin with version 16.0.0.273 on Windows 8 x86
+[2018-02-07:15:55:06] Commandline is: -silent
+[2018-02-07:15:55:06] No installed runtime detected
+[2018-02-07:15:55:07] Starting silent runtime install. Installing runtime version 16.0.0.273
+[2018-02-07:15:55:07] Installing msi at c:\users\connect\appdata\local\temp\7zipsfx.000\setup.msi with guid {7B77622E-DE90-48EA-B2C7-227B1DE58A01}
+[2018-02-07:15:55:08] Runtime Installer end with exit code 0
